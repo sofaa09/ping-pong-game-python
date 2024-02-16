@@ -23,7 +23,7 @@ BALL_X_CHANGE = 20
 BALL_Y_CHANGE = 0
 
 root = Tk()
-root.title('Пинг-Понг')
+root.title('ping-pong')
 
 c = Canvas(root, width = WIDTH, height = HEIGHT, background='#008B8B')
 c.pack()
